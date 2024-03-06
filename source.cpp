@@ -5,4 +5,5 @@ bool function()
 void main(){
 cout << "HELLO";
   cout << "GB";
+function();
 }
